@@ -1,0 +1,8 @@
+
+.position-relative.overflow-hidden.text-center.bg-light {
+    background-image: url('../Assets/images/images.jpg');
+}
+.navbar>.container-fluid{
+    margin-right: -31em;
+
+}

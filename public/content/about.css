@@ -1,0 +1,24 @@
+.info-container {
+    display: flex;
+    margin: 65px 0px;
+    padding: 0 110px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.info-content {
+    width: 46em;
+}
+.info-heading{
+    font-size: 2.1em;
+    color: blueviolet;
+}
+.info-text{
+    font-size: 1.2em;
+    line-height: 1.5em;
+    font-weight: 600;
+    margin-top: 20px;
+    color: rgb(24, 5, 42);
+}
+img{
+    border-radius: 10px;
+}
